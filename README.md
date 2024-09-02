@@ -1,4 +1,4 @@
-# Sales_Dahsboard_using_PowerBi
+# Sales_Dashboard_using_PowerBi
 
 Power BI Dashboard for sales analysis
 
